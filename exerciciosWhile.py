@@ -14,7 +14,7 @@ def exe3():
   i = 0
   while i <= 2000:
     if i % 2 == 0:
-    print(i)
+      print(i)
     i += 1
   
 def exe4():
